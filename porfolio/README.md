@@ -1,67 +1,50 @@
-Limpieza y Transformación de Datos - Encuesta sobre Subsidios Habitacionales
+# 🏡 Data Cleaning & Transformation - Housing Subsidy Survey
 
-Descripción del Proyecto
+## 📌 Project Description
+This project is part of a Data Science portfolio, focusing on the **cleaning and transformation** of a dataset from a housing subsidy survey. The goal is to process messy data using preprocessing techniques, ensuring data quality for future analysis.
 
-Este proyecto forma parte de un portafolio de Ciencia de Datos y tiene como objetivo la limpieza y transformación de un dataset con datos de una encuesta sobre subsidios habitacionales. Se trabajó con datos desordenados para aplicar técnicas de preprocesamiento y garantizar su calidad para futuros análisis.
+## 📊 Dataset Structure
+The original dataset contains information about survey respondents and their housing conditions, including:
 
-Estructura del Dataset
+- **Persona**: Unique identifier for the respondent.
+- **Edad**: Age of the respondent.
+- **Género**: Gender identity.
+- **Residencia**: Location of residence.
+- **Ocupación**: Employment status.
+- **Situación Habitacional**: Housing condition (e.g., "Calle", "Alquilada").
+- **Conoce Subsidios**: Indicates whether the respondent is aware of available subsidies.
+- **Solicitó Subsidios**: Indicates if a subsidy application was submitted.
+- **Recibió Subsidios**: Indicates if the respondent received a subsidy.
+- **Suficiencia de Alimentos (1-5)**: Scale measuring food sufficiency.
+- **Calidad de Alimentos (1-5)**: Scale measuring food quality.
 
-El dataset original contiene información sobre personas encuestadas y sus condiciones habitacionales, incluyendo las siguientes columnas:
+## 🛠️ Data Cleaning Process
+The original dataset contained inconsistencies, missing values, and formatting issues that were corrected through:
 
-Persona: Identificador del encuestado.
+✅ **Duplicate Removal**: Eliminated repeated entries.  
+✅ **Data Type Correction**: Converted age and numerical scales to the correct format.  
+✅ **Response Normalization**: Standardized "Yes"/"No" responses.  
+✅ **Handling Missing Values**: Filled missing values in key columns with "Unknown."  
+✅ **Category Standardization**: Fixed errors in categorical variables.  
 
-Edad: Edad del encuestado.
+## 🚀 How to Run the Code
+Follow these steps to clean the dataset:
 
-Género: Identidad de género.
+1️⃣ Clone this repository or download the files.  
+2️⃣ Ensure the messy dataset (`encuesta_sucia.csv`) is in the same directory as the script.  
+3️⃣ Install the required dependencies:
+   ```bash
+   pip install pandas numpy
+   ```
+4️⃣ Run the cleaning script:
+   ```bash
+   python clean.py
+   ```
+5️⃣ The cleaned file will be generated as `encuesta_limpia.csv`.
 
-Residencia: Ubicación de residencia.
+## 📈 Expected Results
+After executing the script, you'll obtain a **structured dataset** with consistent values, ready for further analysis in studies on housing subsidies.
 
-Ocupación: Tipo de empleo o situación laboral.
-
-Situación Habitacional: Condición de vivienda (ej., "Calle", "Alquilada").
-
-Conoce Subsidios: Indica si el encuestado conoce los subsidios disponibles.
-
-Solicitó Subsidios: Indica si ha realizado solicitudes de subsidios.
-
-Recibió Subsidios: Indica si recibió algún tipo de subsidio.
-
-Suficiencia de Alimentos (1-5): Escala de suficiencia alimentaria.
-
-Calidad de Alimentos (1-5): Escala de calidad de los alimentos consumidos.
-
-Proceso de Limpieza
-
-El dataset original contenía inconsistencias, valores nulos y problemas de formato que fueron corregidos con el siguiente proceso:
-
-Eliminación de duplicados: Se eliminaron filas repetidas.
-
-Corrección de tipos de datos: Se convirtieron edades y escalas numéricas al tipo de dato adecuado.
-
-Normalización de respuestas: Se unificaron respuestas de "Sí"/"No" en un formato estándar.
-
-Manejo de valores nulos: Se rellenaron valores vacíos en columnas clave con "Desconocido".
-
-Estandarización de categorías: Se corrigieron errores en nombres de categorías.
-
-Instrucciones para Ejecutar el Código
-
-Para limpiar el dataset, sigue estos pasos:
-
-Clonar este repositorio o descargar los archivos.
-
-Asegurar que el dataset desordenado (encuesta_sucia.csv) esté en la misma carpeta que el script.
-
-Instalar las dependencias necesarias con:
-
-pip install pandas numpy
-
-Ejecutar el script de limpieza:
-
-python clean.py
-
-El archivo limpio se generará como encuesta_limpia.csv.
-
-Resultados Esperados
-
-Tras la ejecución del script, se obtiene un dataset estructurado, con valores coherentes y listo para su análisis en estudios de impacto de subsidios habitacionales.
+---
+👤 **Author:** [Your Name]  
+📌 This project is part of a Data Science portfolio.
