@@ -1,0 +1,42 @@
+,Persona,Edad,Género,Residencia,Ocupación,Situación Habitacional,Personas con las que vive,Problemas Legales por Vivienda,Conoce Subsidios,Sabe Cómo Solicitarlos,Requisitos Conocidos,Solicitó Subsidios,Recibió Subsidios,Frecuencia de Asistencia,Otras Fuentes de Alimentos,Capacidad para Almacenar,Suficiencia de Alimentos (1-5),Acciones si No Alcanza,Comidas Completas al Día,Calidad de Alimentos (1-5)
+,Persona 1,51,Masculino,CABA,Gastronomía,Calle,Familia en Córdoba,No,Sí,Sí (con el 108),Negativa de ANSES,Sí,No,Con necesidad,"Recolección, donaciones",No,2,Ayudas en el mismo punto,1,5
+,Persona 2,52,Masculino,CABA,Gastronomía,Calle,Familia en Misiones y Córdoba,Sí,Sí,Sí,Negativa de ANSES,Sí,No,Con necesidad,"Recolección, donaciones",No,5,Ayudas en el mismo punto,1,5
+,Persona 3,Cincuenta y dos,Femenino,CABA,Discapacitada,Alquilada,Sola,No,No,,,,,Con necesidad,,Limitada (cocina compartida),5,A veces no come,1,5
+,Persona 4,60,Fem,CABA,Desempleada,Calle,Sola,No,No,,,,,Con necesidad,,No,3,A veces no come,1,3
+,Persona 5,90,Femenino,CABA,Jubilada,Calle,Sola,No,si,No,No,No,No,Esporádica (3),Compra,No,2,Busca donaciones,1,1
+,Persona 6,,Masculino,CABA,Changarín,Calle,,Sí,No,,,No,NO,Con necesidad,,No,4,,1,2
+,Persona 7,35,Femenino,CABA,Empleada Doméstica,Calle,2 hijos menores,No,Sí,No,,No,No,,,No,3,,1,4
+,Persona 8,40,Masculino,CABA,Jubilado,Calle,Sola,,No,,,,,Esporádica (3),,,1,,1,2
+,Persona 9,28,Femenino,CABA,Desempleada,Alquilada,Pareja,No,No,,,,,Con necesidad,,,3,,1,3
+,Persona 10,50,Masculino,CABA,Changarín,Calle,Familia en el Sur,Sí,No,,,No,No,Con necesidad,,,3,,1,3
+,Persona 11,42,Femenino,CABA,Cocina,Alquilada,1 hijo,No,Sí,Sí,Subsidio por hijo,Sí,No,Con necesidad,Donaciones,Limitada,4,Ayuda de vecinos,1,4
+,Persona 12,30,Masculino,CABA,Desempleado,Calle,Ninguno,Sí,No,No,Sin documentación,No,No,Con necesidad,Recolección,No,2,Busco trabajo,1,5
+,Persona 13,38,Femenino,CABA,Vendedora,Alquilada,Sola,No,Sí,Sí,Solicitud rechazada,No,No,Esporádica (2),"Donaciones, compra",No,3,Compra cuando puede,2,3
+,Persona 14,45,Masculino,CABA,,Calle,3 hermanos,Sí,No,,Ninguna,No,No,Con necesidad,Comida de familiares,No,2,Busco más ayuda,1,2
+,Persona 15,55,Femenino,CABA,Trabajadora,Alquilada,Familia,No,Sí,No,Ayuda de vecinos,Sí,No,Con necesidad,Reciclaje,No,3,Ayuda de amigos,1,4
+,Persona 16,25,Masculino,CABA,Desempleado,Calle,Solo,No,No,,,,,Esporádica (2),,No,3,Busca recursos online,1,2
+,Persona 17,40,Femenino,CABA,Restauradora,Calle,2 hijos pequeños,Sí,Sí,No,Recibo social,Sí,No,Con necesidad,"Donaciones, ayudas",Limitada,4,Ayuda familiar,1,4
+,Persona 18,60,Masculino,CABA,Jubilado,Alquilada,Solo,No,Sí,Sí,Subsidio por jubilación,Sí,Sí,Con necesidad,Donaciones,No,5,Recolección de comida,1,5
+,Persona 19,32,Femenino,CABA,Sin ocupación,Calle,1 hijo menor,No,Sí,No,No,No,No,Con necesidad,"Reciclaje, recolección",No,2,Ayuda de vecinos,1,3
+,Persona 20,48,Masculino,CABA,Médico,Alquilada,Esposa y 2 hijos,No,Sí,Sí,Ayuda social,Sí,No,Esporádica (2),Compra,No,3,Busca ayuda médica,2,3
+,Persona 21,,Femenino,CABA,Sin ocupación,Calle,2 hijos menores,No,No,,,,,Con necesidad,,No,2,Busco trabajo,1,5
+,Persona 22,36,Masculino,CABA,Vendedor ambulante,Alquilada,Con pareja,No,Sí,Sí,Subsidios familiares,No,No,Esporádica (3),"Donaciones, amigos",Limitada,3,Ayuda de vecinos,1,4
+,Persona 23,55,Femenino,CABA,Sin empleo,Calle,Familia en la provincia,No,Sí,Sí,Rechazo de subsidios,Sí,No,Con necesidad,Recolección de alimentos,No,2,Ayuda de familiares,1,2
+,Persona 24,40,Masculino,CABA,Agricultor,Alquilada,Sola,Sí,No,No,Problemas con documentación,No,No,Esporádica (3),Compra,No,3,Recibe ayuda en el barrio,1,3
+,Persona 25,30,Femenino,CABA,Trabajadora,Calle,Con hermana,No,No,,,,,Con necesidad,,No,2,Ayuda de la comunidad,1,3
+,Persona 26,48,Masculino,CABA,Sin ocupación,Calle,Solo,Sí,No,Sí,Subsidios de desempleo,Sí,No,Con necesidad,Donaciones de comida,No,3,Busca otro trabajo,1,3
+,Persona 27,60,Femenino,CABA,Empleada,Alquilada,Con 2 hijos,No,Sí,No,Subsidio por hijos,Sí,No,Esporádica (2),"Reciclaje, compras",No,4,Ayuda del gobierno,1,4
+,Persona 28,35,Masculino,CABA,Sin trabajo,Calle,Solo,No,No,,,,,Con necesidad,,No,3,Buscando en redes sociales,1,2
+,Persona 29,45,Femenino,CABA,Empleada,Calle,1 hija,Sí,No,,Subsidios para niña,No,No,,"Reciclaje, ayudas",No,2,Ayuda de la vecindad,1,2
+,Persona 30,60,Masculino,CABA,Desempleado,Alquilada,Con su pareja,No,Sí,Sí,Ayuda familiar,Sí,No,Esporádica (2),Compra de bajo costo,Limitada,3,Ayuda ocasional,1,3
+,Persona 31,40,Femenino,CABA,Sin trabajo,Calle,Familia en el norte,Sí,Sí,,Ingreso ocasional,No,No,Con necesidad,"Reciclaje, donaciones",No,4,Busca asistencia en ONGs,1,4
+,Persona 32,30,Masculino,CABA,Cocinero,Alquilada,Con 2 hijos,No,Sí,No,Subsidios de alimentos,No,No,Con necesidad,"Reciclaje, compra de comida",No,3,Recolección de alimentos,1,3
+,Persona 33,50,Femenino,CABA,Sin empleo,Calle,Con pareja y 1 hijo,Sí,No,,Subsidio por niño,No,No,Con necesidad,Donaciones,No,2,A veces se las arregla,1,3
+,Persona 34,38,Masculino,CABA,Vendedor,Alquilada,Solo,No,Sí,No,Sin ingresos suficientes,Sí,No,Esporádica (2),Ayudas puntuales,No,4,Ayuda de amigos,1,4
+,Persona 35,28,Femenino,CABA,Sin ocupación,Calle,Solo,Sí,No,,Ninguna,No,No,Con necesidad,No especificado,No,3,Ayuda de amigos,1,2
+,Persona 36,60,Masculino,CABA,Jubilado,Calle,Familia en la provincia,No,No,No,Sin subsidio,No,No,Con necesidad,Reciclaje,No,4,Busca más recursos,1,4
+,Persona 37,44,Femenino,CABA,Sin trabajo,Calle,Solo,No,Sí,Sí,Subsidio por desempleo,Sí,No,Con necesidad,"Donaciones, ayudas",No,2,Ayuda ocasional,1,3
+,Persona 38,33,Masculino,CABA,Estilista,Alquilada,Pareja,Sí,Sí,No,Rechazo por requisitos,No,No,Esporádica (3),Recolecta comida,No,3,Reciclaje de alimentos,1,3
+,Persona 39,39,Femenino,CABA,Vendedora,Calle,Ninguno,No,Sí,,Subsidio por hija,No,No,Con necesidad,Recolección de alimentos,No,2,Ayuda ocasional,1,2
+,Persona 40,50,Masculino,CABA,Restaurador,Calle,Solo,Sí,No,,Subsidios familiares,No,No,Esporádica (2),"Reciclaje, comida de otros",No,3,Ayuda de amigos,1,3
+,Persona 2,52,Masculino,CABA,Gastronomía,Calle,Familia en Misiones y Córdoba,Sí,Sí,Sí,Negativa de ANSES,Sí,No,Con necesidad,"Recolección, donaciones",No,5,Ayudas en el mismo punto,1,5
